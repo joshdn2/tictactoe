@@ -1,0 +1,3 @@
+To publish and deploy: npm run deploy
+To publish and deploy with message: npm run deploy -- -m "message"
+Store the React app's source code on GitHub: git add, commit, push after making changes on master branch
